@@ -1,4 +1,7 @@
 ### Hi there 👋
+ - 🔭 I’m currently working on reviewing JavaScript and its fundamentals
+ - 🤔 I’m looking for help with React and Go
+ - 📫 How to reach me: ![On Twitter](https://twitter.com/Coding_CW)
 
 <!--
 **ColeWebster/ColeWebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
