@@ -1,6 +1,6 @@
 ### Hi there 👋
  - 🔭 I’m currently working on reviewing JavaScript and its fundamentals
- - 🤔 I’m looking for help with React and Go
+ - 🤔 I’m looking for help with React, Angular and databases.
  - 📫 How to reach me: [Twitter](https://twitter.com/Coding_CW)
 
 <!--
