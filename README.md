@@ -1,6 +1,6 @@
 ### Hi there 👋
- - 🔭 I’m currently working on learning Java and mastering CSS. 
- - 📫 How to reach me: [Twitter](https://twitter.com/Coding_CW) or [Email](cwebster87@outlook.com)
+ - 🔭 I’m currently learning entry level Java and continuing my path on intermediate JavaScript. 
+ - 📫 How to reach me: [Email](cwebster87@outlook.com)
 
 
 <!--
